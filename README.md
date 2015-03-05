@@ -2,7 +2,12 @@
 
 Adds `:CharToKeycode` command that, in linux, replaces char at cursor with keycode integer.
 
-Useful when editing various hotkey configuration files without referencing to xev.
+Useful when editing various hotkey configuration files without referencing to `xev`.
+
+## Requirements
+
+Xlib
+python2
 
 ## Installation
 
