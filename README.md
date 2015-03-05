@@ -1,5 +1,9 @@
 # CharToKeycode
 
+Adds CharToKeycode command that, in linux, replaces char at cursor position with keycode integer.
+
+Useful when editing various hotkey configuration files without referencing to xev.
+
 ## Installation
 
 Use your plugin manager of choice.
@@ -16,7 +20,3 @@ Use your plugin manager of choice.
   - Add `Plug 'https://github.com/c0ffeeartc/CharToKeycode'` to .vimrc
   - Run `:PlugInstall`
 
-## Todo
-
-1. Write a plugin
-2. Write documentation
