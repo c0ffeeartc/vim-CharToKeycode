@@ -1,0 +1,26 @@
+*CharToKeycode.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                        *CharToKeycode*
+
+    1. Intro ............................................ |CharToKeycode-intro|
+    2. Requirements .............................. |CharToKeycode-requirements|
+    3. Usage ............................................ |CharToKeycode-usage|
+    4. Licence ........................................ |CharToKeycode-licence|
+===============================================================================
+1. Intro                                                  *CharToKeycode-intro*
+
+Converts [A-Za-z] char to its linux keycode integer
+
+2. Requirements                                    *CharToKeycode-requirements*
+
+Xlib
+python2
+
+3. Usage                                                  *CharToKeycode-usage*
+
+Use ':CharToKeycode' command with cursor over [A-Za-z] character
+
+4. Licence                                              *CharToKeycode-licence*
+
+MIT
